@@ -1,9 +1,9 @@
 # README.
 # 
-<h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from INDIA </h2>
+<h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from BHARAT </h2>
 ###
 
-I'm a self-taught passionate BackEnd developer from India 🇮🇳
+I'm a self-taught passionate BackEnd developer from BHARAT 🇮🇳
 
 **About me**
 
@@ -59,8 +59,8 @@ ___
 ___
 
 <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-____
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&theme=react&show_icons=true&hide_border=false&layout=compact" />
-
+<a href="https://github.com/NICK-FURY-6023/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&count_private=true&langs_count=3&theme=onedark" />
+</a>
 
