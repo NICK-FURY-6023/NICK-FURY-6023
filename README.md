@@ -1,6 +1,18 @@
 # README.
 # 
 <h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from INDIA </h2>
+###
+
+I'm a self-taught passionate BackEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 Backend Developer
+
+
+- ❤️ I love writing Javascript, and building fun experiments on type-level
+
+- 💬 Ask me about anything
 
 
 ###
@@ -31,18 +43,7 @@ ___
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
-I'm a self-taught passionate BackEnd developer from India 🇮🇳
-
-**About me**
-
-- 💼 Backend Developer
-
-
-- ❤️ I love writing Javascript, and building fun experiments on type-level
-
-- 💬 Ask me about anything
 - [![DiscordBanner](https://invidget.switchblade.xyz/fz8QMYdVDq)](https://discord.gg/CdCfgSC3qy)<br />
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -61,3 +62,5 @@ ___
 ____
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&theme=react&show_icons=true&hide_border=false&layout=compact" />
+
+
