@@ -36,6 +36,8 @@ I'm a self-taught passionate BackEnd developer from BHARAT 🇮🇳
   <img width="12" />
 </div>
 
+### Where you'll find me
+[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/761635564835045387)
 ### 
 ___
 
