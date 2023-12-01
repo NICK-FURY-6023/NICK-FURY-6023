@@ -77,5 +77,5 @@ ___
 
 <!-- Project: YouTube-Livestreaming -->
 <a href="https://github.com/NICK-FURY-6023/247-YouTube-Livestreaming.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=YouTube-Livestreaming&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=247-YouTube-Livestreaming&theme=onedark" />
 </a>
