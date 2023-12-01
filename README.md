@@ -79,3 +79,8 @@ ___
 <a href="https://github.com/NICK-FURY-6023/247-YouTube-Livestreaming.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=247-YouTube-Livestreaming&theme=onedark" />
 </a>
+
+<!-- Project: Temporary Voice discord bot-->
+<a href="https://github.com/NICK-FURY-6023/Temporary-voice-channel-discord-bot.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=Temporary-voice-channel-discord-bot&theme=onedark" />
+</a>
