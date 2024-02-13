@@ -56,17 +56,16 @@ ___
 
 ___
 
-# 📊 GitHub Stats
-<img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&theme=react" />  <img width="51%" src="https://streak-stats.demolab.com/?user=NICK-FURY-6023&theme=react" />
+![NICK FURY's Github Stats](https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&hide=TeX&layout=compact&theme=transparent&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NICK-FURY-6023&theme=transparent&hide_border=false)
 
+</div>
 
 <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
-<a href="https://github.com/NICK-FURY-6023/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&count_private=true&langs_count=3&theme=onedark" />
-</a>
-
+___
 
 ### My projects 
 
@@ -89,3 +88,6 @@ ___
 <a href="https://github.com/NICK-FURY-6023/Temporary-voice-channel-discord-bot.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=Temporary-voice-channel-discord-bot&theme=onedark" />
 </a>
+
+
+
