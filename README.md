@@ -53,6 +53,7 @@ ___
 
  [![DiscordBanner](https://invidget.switchblade.xyz/fz8QMYdVDq)](https://discord.gg/CdCfgSC3qy)<br />
 
+[![](https://visitcount.itsvg.in/api?id=NICK-FURY-6023&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ___
 
