@@ -57,8 +57,8 @@ ___
 
 ___
 
-![NICK FURY's Github Stats](https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&hide=TeX&layout=compact&theme=transparent&hide_border=true)
+![NICK FURY's Github Stats](https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&hide=TeX&layout=compact&theme=transparent&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NICK-FURY-6023&theme=transparent&hide_border=false)
 
 </div>
