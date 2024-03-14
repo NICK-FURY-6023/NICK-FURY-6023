@@ -1,4 +1,3 @@
-
 # 
 <h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from BHARAT </h2>
 ###
