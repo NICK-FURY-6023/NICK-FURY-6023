@@ -65,6 +65,7 @@ ___
 <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
+https://raw.githubusercontent.com/NICK-FURY-6023/NICK-FURY-6023/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
 ___
 
 ### My projects 
