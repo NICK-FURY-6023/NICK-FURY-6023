@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=NICK-FURY-6023&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=matrix)](https://github.com/NICK-FURY-6023/github-profile-trophy)
 # 
 <h2 align="left">Hi 👋! My name is ₦ł₵₭  ₣ɄⱤɎ and I'm  from BHARAT </h2>
 ###
