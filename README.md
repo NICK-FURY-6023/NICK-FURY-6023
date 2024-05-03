@@ -66,6 +66,9 @@ ___
 <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ___
 
