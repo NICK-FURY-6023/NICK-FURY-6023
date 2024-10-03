@@ -28,7 +28,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/761635564835045387)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/CdCfgSC3qy)](https://discord.gg/CdCfgSC3qy)<br />
+[![DiscordBanner](https://invidget.switchblade.xyz/kPVSh8FzDF)](https://discord.gg/kPVSh8FzDF)<br />
 
 ### 
 ___
