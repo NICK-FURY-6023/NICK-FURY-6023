@@ -30,7 +30,6 @@
 
 [![DiscordBanner](https://invidget.switchblade.xyz/kPVSh8FzDF)](https://discord.gg/kPVSh8FzDF)<br />
 
-### 
 ___
 
 <div align="left">
