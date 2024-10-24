@@ -31,7 +31,7 @@
 
 ![](https://discord.c99.nl/widget/theme-3/761635564835045387.png)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/kPVSh8FzDF)](https://discord.gg/U4kN6ZJyMt)<br />
+[![DiscordBanner](https://invidget.switchblade.xyz/U4kN6ZJyMt)](https://discord.gg/U4kN6ZJyMt)<br />
 
 ___
 
