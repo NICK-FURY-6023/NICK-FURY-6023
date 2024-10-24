@@ -2,6 +2,7 @@
 <h3 align="center">ask me about nothing</h3>
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023" alt="nick-fury-6023" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nick_fury_6023" target="blank"><img src="https://img.shields.io/twitter/follow/nick_fury_6023?logo=twitter&style=for-the-badge" alt="nick_fury_6023" /></a> </p>
@@ -27,6 +28,8 @@
 ---
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/761635564835045387)
+
+![](https://discord.c99.nl/widget/theme-3/761635564835045387.png)
 
 [![DiscordBanner](https://invidget.switchblade.xyz/kPVSh8FzDF)](https://discord.gg/kPVSh8FzDF)<br />
 
