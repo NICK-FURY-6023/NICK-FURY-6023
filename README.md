@@ -9,6 +9,7 @@
 
 
 ### Blogs posts
+__
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -16,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/nick-fury-6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nick-fury-6023" height="30" width="40" /></a>
 <a href="https://twitter.com/nick_fury_6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nick_fury_6023" height="30" width="40" /></a>
-<a href="https://instagram.com/parthaobroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthaobroy" height="30" width="40" /></a>
+<a href="https://instagram.com/parthaobroy" target="blank"><img align="####center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthaobroy" height="30" width="40" /></a>
 <a href="https://medium.com/@nick-fury-6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nick-fury-6023" height="30" width="40" /></a>
 <a href="https://discord.gg/761635564835045387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="761635564835045387" height="30" width="40" /></a>
 <a href="/https://dashboard.rss.com/podcasts/thank-you/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/podcasts/thank-you/" height="30" width="40" /></a>
