@@ -1,6 +1,11 @@
 <h3 align="center">I'm a self-taught passionate BackEnd developer from BHARAT</h3>
 <h3 align="center">ask me about nothing lol_xd</h3>
 
+                         
+   <p align="center">
+  <img src="https://i.imgur.com/7c3fFNh.gif" alt="Alt Text" />
+</p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023" alt="nick-fury-6023" /></a> </p>
