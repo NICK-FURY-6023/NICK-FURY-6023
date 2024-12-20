@@ -58,28 +58,3 @@ ___
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-___
-
-### My projects 
-
-<!-- Project: Chat-GPT-4-Bot -->
-<a href="https://github.com/NICK-FURY-6023/Chat-GPT-4-Bot.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=Chat-GPT-4-Bot&theme=onedark" />
-</a>
-
-<!-- Project: Radio discord Bot 247 -->
-<a href="https://github.com/NICK-FURY-6023/Radio-discord-Bot-247.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=Radio-discord-Bot-247&theme=onedark" />
-</a>
-
-<!-- Project: YouTube-Livestreaming -->
-<a href="https://github.com/NICK-FURY-6023/247-YouTube-Livestreaming.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=247-YouTube-Livestreaming&theme=onedark" />
-</a>
-
-<!-- Project: Temporary Voice discord bot-->
-<a href="https://github.com/NICK-FURY-6023/Temporary-voice-channel-discord-bot.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NICK-FURY-6023&repo=Temporary-voice-channel-discord-bot&theme=onedark" />
-</a>
-
-
