@@ -54,4 +54,5 @@ ___
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nick-fury-6023&theme=radical" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=radical" alt="Top Languages">
   </section>
-
+  
+![My Activity](https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232...)
