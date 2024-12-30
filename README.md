@@ -47,17 +47,11 @@
 
 
 ___
-
-![NICK FURY's Github Stats](https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICK-FURY-6023&hide=TeX&layout=compact&theme=transparent&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NICK-FURY-6023&theme=transparent&hide_border=false)
-
-</div>
-
-<img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<!-- Stats -->
+  <section>
+    <h2>📊 Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=nick-fury-6023&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nick-fury-6023&theme=radical" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=radical" alt="Top Languages">
+  </section>
 
