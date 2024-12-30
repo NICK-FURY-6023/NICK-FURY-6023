@@ -43,6 +43,9 @@
 
 [![DiscordBanner](https://invidget.switchblade.xyz/U4kN6ZJyMt)](https://discord.gg/U4kN6ZJyMt)<br />
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
+
+
 ___
 
 ![NICK FURY's Github Stats](https://github-readme-stats.vercel.app/api?username=NICK-FURY-6023&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false)
