@@ -13,9 +13,7 @@
 <p align="left"> <a href="https://twitter.com/nick_fury_6023" target="blank"><img src="https://img.shields.io/twitter/follow/nick_fury_6023?logo=twitter&style=for-the-badge" alt="nick_fury_6023" /></a> </p>
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
