@@ -331,8 +331,7 @@ Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░
 
 <div align="center">
   
-### 🎧 Last.fm Recent Tracks
-<img src="https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=embed&loved=true&count=8&footer_style=compact_stats&loved_style=3&width=800&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" alt="Last.fm Recent Tracks">
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
 
 ### 🎼 Spotify Now Playing
 [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=nickfury6023&cover_image=true&theme=compact&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nickfury6023&redirect=true)
