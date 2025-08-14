@@ -1,57 +1,349 @@
-<h3 align="center">I'm a self-taught passionate BackEnd developer from BHARAT</h3>
-<h3 align="center">ask me about nothing lol_xd</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nick%20Fury&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20from%20BHARAT&descAlignY=51&descAlign=62" />
+</div>
 
-                         
-   <p align="center">
-  <img src="https://i.imgur.com/7c3fFNh.gif" alt="Alt Text" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Self-taught+Backend+Developer;🇮🇳+Proudly+from+BHARAT;💻+Always+Learning+New+Tech;😂+Ask+me+about+nothing+lol_xd;🔥+Building+Scalable+Systems;⚡+Coffee+%2B+Code+%3D+Life;🌟+Open+Source+Enthusiast;🎯+Problem+Solver+%26+Bug+Hunter&font=Fira%20Code&center=true&width=1000&height=80&duration=2000&pause=300&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&multiline=false&repeat=true&separator=%3B" alt="Typing Animation" />
+</div>
 
+<div align="center">
+  <img src="https://i.imgur.com/7c3fFNh.gif" alt="Coding Animation" width="500"/>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nick-fury-6023&label=Profile%20Views&color=blueviolet&style=plastic&animation=count" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nick-fury-6023?label=Followers&style=social&animation=pulse" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=plastic&logo=statuspage" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-orange?style=plastic&logo=target" alt="Focus" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023" alt="nick-fury-6023" /></a> </p>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%23944bcc&aColor=%23bbdeff" alt="Jokes Card" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/nick_fury_6023" target="blank"><img src="https://img.shields.io/twitter/follow/nick_fury_6023?logo=twitter&style=for-the-badge" alt="nick_fury_6023" /></a> </p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nick-fury-6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nick-fury-6023" height="30" width="40" /></a>
-<a href="https://twitter.com/nick_fury_6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nick_fury_6023" height="30" width="40" /></a>
-<a href="https://instagram.com/parthaobroy" target="blank"><img align="####center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthaobroy" height="30" width="40" /></a>
-<a href="https://medium.com/@nick-fury-6023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nick-fury-6023" height="30" width="40" /></a>
-<a href="https://discord.gg/761635564835045387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="761635564835045387" height="30" width="40" /></a>
-<a href="/https://dashboard.rss.com/podcasts/thank-you/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/podcasts/thank-you/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
 
-___
-<!-- Stats -->
-  <section>
-    <h2>📊 Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=nick-fury-6023&show_icons=true&theme=radical" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=radical" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nick-fury-6023&theme=radical" alt="GitHub Streak">
-  </section>
+
+<div align="center">
+
+### 🏆 Comprehensive Trophy Collection
+<img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Comprehensive Trophies"/>
+
+</div>
+
+<div align="center">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-fury-6023&theme=radical" alt="Profile Summary" width="100%"/>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-fury-6023&theme=radical" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick-fury-6023&theme=radical" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nick-fury-6023&theme=radical" alt="Most Used Languages"/>
+
+</div>
+
+
+
+<div align="center">
   
-![My Activity](https://github-readme-activity-graph.vercel.app/graph?username=NICK-FURY-6023&bg_color=21232...)
+## 📊 Weekly Development Breakdown
 
-----
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Random Fun GIF">
+<!--START_SECTION:waka-->
+```text
+💬 Programming Languages:
+JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.2% 
+Python        5 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   23.1% 
+Java          3 hrs 20 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Go            2 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░    9.1% 
+TypeScript    1 hr  5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░    4.2% 
+
+🔥 Editors:
+VS Code       20 hrs 45 mins ████████████████████▓░░░░   83.5% 
+IntelliJ IDEA  3 hrs 20 mins ███▓░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Vim            45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    3.1% 
+
+💻 Operating Systems:
+Linux         18 hrs 30 mins ██████████████████▓░░░░░░   74.4% 
+Windows        4 hrs 20 mins █████░░░░░░░░░░░░░░░░░░░░   17.4% 
+Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.2% 
+```
+<!--END_SECTION:waka-->
+
+
+
+
+## 🌟 Community & Open Source
+
+<div align="center">
+
+
+### 📊 Contribution Stats
+<img src="https://github-contributor-stats.vercel.app/api?username=nick-fury-6023&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+
+</div>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### Discord Rich Presence & Status
+
+<div align="center">
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
+  </a>
+  <a href="https://golang.org/">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript"/>
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/>
+  </a>
+  <a href="https://www.ruby-lang.org/">
+    <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" title="Ruby"/>
+  </a>
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift"/>
+  </a>
 </p>
 
+### 🌐 Backend Frameworks & Technologies
+<p>
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel"/>
+  </a>
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387)](https://discord.com/users/761635564835045387)
+### 🗄️ Databases & Storage
+<p>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/>
+  </a>
+</p>
 
-![](https://discord.c99.nl/widget/theme-3/761635564835045387.png)
+### ☁️ Cloud & DevOps
+<p>
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Microsoft Azure"/>
+  </a>
+  <a href="https://cloud.google.com/">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="Google Cloud Platform"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes"/>
+  </a>
+  <a href="https://www.heroku.com/">
+    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" title="Heroku"/>
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>
+  </a>
+  <a href="https://www.netlify.com/">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify"/>
+  </a>
+</p>
 
-[![DiscordBanner](https://invidget.switchblade.xyz/U4kN6ZJyMt)](https://discord.gg/U4kN6ZJyMt)<br />
+### 🛠️ Development Tools
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  </a>
+  <a href="https://www.vim.org/">
+    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"/>
+  </a>
+</p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
+### 🎨 Frontend (for Full-Stack Projects)
+<p>
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js"/>
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
+  </a>
+  <a href="https://nuxtjs.org/">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/>
+  </a>
+</p>
 
+### 🧪 Testing & Quality Assurance
+<p>
+  <a href="https://jestjs.io/">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
+  </a>
+</p>
+
+### 🔧 Additional Tools & Services
+<p>
+  <a href="https://www.nginx.com/">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx"/>
+  </a>
+  <a href="https://httpd.apache.org/">
+    <img src="https://skillicons.dev/icons?i=apache" alt="Apache" title="Apache"/>
+  </a>
+  <a href="https://grafana.com/">
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana"/>
+  </a>
+  <a href="https://prometheus.io/">
+    <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/>
+  </a>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me Across The Digital Universe
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=pulse)](https://twitter.com/nick_fury_6023)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nick-fury-6023)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parthaobroy)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nick-fury-6023)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/761635564835045387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nickfury6023)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick-fury-6023)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nickfury6023)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickfury6023)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nickfury6023)
+
+</div>
+
+---
+
+  
+### 🎯 Live Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387?theme=dark&bg=0d1117&borderRadius=15&hideDiscrim=true&idleMessage=Probably%20coding...)](https://discord.com/users/761635564835045387)
+
+### 🎮 Discord Profile Card
+![Discord Profile](https://discord.c99.nl/widget/theme-4/761635564835045387.png)
+
+### 🎪 Discord Server Widget
+[![Discord Server](https://invidget.switchblade.xyz/U4kN6ZJyMt?theme=dark)](https://discord.gg/U4kN6ZJyMt)
+
+
+<div align="center">
+  
+### 🎧 Last.fm Recent Tracks
+<img src="https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=embed&loved=true&count=8&footer_style=compact_stats&loved_style=3&width=800&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" alt="Last.fm Recent Tracks">
+
+### 🎼 Spotify Now Playing
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=nickfury6023&cover_image=true&theme=compact&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nickfury6023&redirect=true)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=twinkling&fontAlignY=70&desc=⭐%20Star%20some%20repos%20if%20you%20like%20them!%20⭐&descAlignY=85&descAlign=50" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Keep+coding+and+stay+awesome!+⚡;🚀+See+you+in+the+next+commit!+🚀;💫+May+your+code+compile+on+the+first+try!+💫&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=2000&color=gradient" alt="Farewell Message"/>
+</div>
 
