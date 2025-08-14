@@ -39,7 +39,7 @@
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-fury-6023&theme=radical" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=radical&utcOffset=5.3" alt="Productive Time"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick-fury-6023&theme=radical" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nick-fury-6023&theme=radical" alt="Most Used Languages"/>
