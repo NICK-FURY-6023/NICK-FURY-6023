@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nick-fury-6023&label=Profile%20Views&color=blueviolet&style=plastic&animation=count" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nick-fury-6023?label=Followers&style=social&animation=pulse" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=nick-fury-6023&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nick-fury-6023?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=plastic&logo=statuspage" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-orange?style=plastic&logo=target" alt="Focus" />
 </div>
@@ -23,7 +23,23 @@
 
 ---
 
+<div align="center">
 
+### 🏃‍♂️ Current Coding Streak
+<img src="https://streak-stats.demolab.com?user=nick-fury-6023&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak Stats"/>
+
+### 📅 Contribution Calendar & Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nick-fury-6023&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" alt="Activity Graph"/>
+
+### 📊 Detailed GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=nick-fury-6023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+### 🎯 Coding Activity Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-fury-6023&theme=radical" alt="Profile Summary" width="100%"/>
+
+</div>
 
 <div align="center">
 
@@ -33,10 +49,6 @@
 </div>
 
 <div align="center">
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-fury-6023&theme=radical" alt="Profile Summary" width="100%"/>
-
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-fury-6023&theme=radical" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=radical&utcOffset=5.3" alt="Productive Time"/>
@@ -48,56 +60,27 @@
 
 
 
-<div align="center">
-  
-## 📊 Weekly Development Breakdown
-
 <!--START_SECTION:waka-->
 ```text
-
- Programming Languages:
-
-JavaScript   12 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.2% 
-Python        5 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   23.1% 
-Java          3 hrs 20 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Go            2 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░    9.1% 
-TypeScript    1 hr  5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░    4.2% 
-
- Editors:
-
-VS Code       20 hrs 45 mins ████████████████████▓░░░░   83.5% 
-IntelliJ IDEA  3 hrs 20 mins ███▓░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Vim            45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    3.1% 
-
-Operating Systems:
-
-Linux         18 hrs 30 mins ██████████████████▓░░░░░░   74.4% 
-Windows        4 hrs 20 mins █████░░░░░░░░░░░░░░░░░░░░   17.4% 
-Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.2% 
+🌟 This section will be automatically updated with WakaTime stats
+To enable this feature, add WakaTime workflow to your GitHub Actions:
+https://github.com/athul/waka-readme
 ```
 <!--END_SECTION:waka-->
-
-
-
 
 ## 🌟 Community & Open Source
 
 <div align="center">
 
-
 ### 📊 Contribution Stats
 <img src="https://github-contributor-stats.vercel.app/api?username=nick-fury-6023&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
 
+### 📈 Commit Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nick_fury_6023&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="WakaTime Stats"/>
+
 </div>
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### Discord Rich Presence & Status
-
-<div align="center">
 
 <div align="center">
 
@@ -299,15 +282,11 @@ Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🌐 Connect With Me Across The Digital Universe
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=pulse)](https://twitter.com/nick_fury_6023)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nick_fury_6023)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nick-fury-6023)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parthaobroy)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nick-fury-6023)
@@ -322,7 +301,6 @@ Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░
 
 ---
 
-  
 ### 🎯 Live Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387?theme=dark&bg=0d1117&borderRadius=15&hideDiscrim=true&idleMessage=Probably%20coding...)](https://discord.com/users/761635564835045387)
 
@@ -332,11 +310,9 @@ Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░
 ### 🎪 Discord Server Widget
 [![Discord Server](https://invidget.switchblade.xyz/U4kN6ZJyMt?theme=dark)](https://discord.gg/U4kN6ZJyMt)
 
-
 <div align="center">
   
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
-
 
 </div>
 
@@ -347,4 +323,3 @@ Mac            2 hrs 5 mins  ██░░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Keep+coding+and+stay+awesome!+⚡;🚀+See+you+in+the+next+commit!+🚀;💫+May+your+code+compile+on+the+first+try!+💫&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=2000&color=gradient" alt="Farewell Message"/>
 </div>
-
