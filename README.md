@@ -60,14 +60,6 @@
 
 
 
-<!--START_SECTION:waka-->
-```text
-🌟 This section will be automatically updated with WakaTime stats
-To enable this feature, add WakaTime workflow to your GitHub Actions:
-https://github.com/athul/waka-readme
-```
-<!--END_SECTION:waka-->
-
 ## 🌟 Community & Open Source
 
 <div align="center">
