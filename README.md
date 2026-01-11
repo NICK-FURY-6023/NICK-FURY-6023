@@ -1,317 +1,437 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=NICK%20FURY&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20from%20BHARAT&descAlignY=59&descAlign=62" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 NICK FURY's PREMIUM APPLE-STYLE GLOW PROFILE 🔥 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Self-taught+Backend+Developer;🇮🇳+Proudly+from+BHARAT;💻+Always+Learning+New+Tech;😂+Ask+me+about+nothing+lol_xd;🔥+Building+Scalable+Systems;⚡+Coffee+%2B+Code+%3D+Life;🌟+Open+Source+Enthusiast;🎯+Problem+Solver+%26+Bug+Hunter&font=Fira%20Code&center=true&width=1000&height=80&duration=2000&pause=300&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&multiline=false&repeat=true&separator=%3B" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=NICK%20FURY&fontSize=90&animation=twinkling&fontAlignY=35&fontColor=A855F7&desc=⚡%20Backend%20Developer%20from%20BHARAT%20⚡&descAlignY=55&descAlign=50&stroke=A855F7&strokeWidth=2" />
 </div>
+
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
-  <img src="https://i.imgur.com/7c3fFNh.gif" alt="Coding Animation" width="500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Self-taught+Backend+Developer;🇮🇳+Proudly+from+BHARAT;💻+Always+Learning+New+Tech;😂+Ask+me+about+nothing+lol_xd;🔥+Building+Scalable+Systems;⚡+Coffee+%2B+Code+%3D+Life;🌟+Open+Source+Enthusiast;🎯+Problem+Solver+%26+Bug+Hunter&font=Fira%20Code&center=true&width=800&height=60&duration=2000&pause=500&color=A855F7&background=0D111700&vCenter=true" alt="Typing Animation" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nick-fury-6023&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nick-fury-6023?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=plastic&logo=statuspage" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-orange?style=plastic&logo=target" alt="Focus" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="480" style="border-radius: 20px;"/>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%23944bcc&aColor=%23bbdeff" alt="Jokes Card" />
+  <a href="https://github.com/nick-fury-6023"><img src="https://komarev.com/ghpvc/?username=nick-fury-6023&label=✨%20Profile%20Views&color=A855F7&style=for-the-badge&labelColor=0D1117" alt="Profile Views" /></a>
+  <a href="https://github.com/nick-fury-6023?tab=followers"><img src="https://img.shields.io/github/followers/nick-fury-6023?label=Followers&style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github" alt="GitHub Followers" /></a>
+  <img src="https://img.shields.io/badge/🟢%20Status-Available%20for%20Work-A855F7?style=for-the-badge&labelColor=0D1117" alt="Status" />
+  <img src="https://img.shields.io/badge/🎯%20Focus-Backend%20Development-A855F7?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=midnight-purple&qColor=%23A855F7&aColor=%23E9D5FF&bgColor=%230D1117" alt="Jokes Card" />
+</div>
+
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/> &nbsp;GitHub Analytics &nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ### 🏃‍♂️ Current Coding Streak
-<img src="https://streak-stats.demolab.com?user=nick-fury-6023&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=nick-fury-6023&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=E879F9&currStreakLabel=A855F7&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=A855F7" alt="GitHub Streak Stats"/>
+
+<br>
 
 ### 📅 Contribution Calendar & Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nick-fury-6023&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nick-fury-6023&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A855F7&line=E879F9&point=FFFFFF&area=true&area_color=A855F7" alt="Activity Graph"/>
+
+<br>
 
 ### 📊 Detailed GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=nick-fury-6023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=nick-fury-6023&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=E879F9&text_color=E9D5FF&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick-fury-6023&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&langs_count=10" alt="Top Languages"/>
+
+<br>
 
 ### 🎯 Coding Activity Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-fury-6023&theme=radical" alt="Profile Summary" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nick-fury-6023&theme=midnight_purple" alt="Profile Summary" width="100%"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
 ### 🏆 Comprehensive Trophy Collection
-<img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Comprehensive Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nick-fury-6023&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Comprehensive Trophies"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-fury-6023&theme=radical" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=radical&utcOffset=5.3" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nick-fury-6023&theme=midnight_purple" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nick-fury-6023&theme=midnight_purple&utcOffset=5.3" alt="Productive Time"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick-fury-6023&theme=radical" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nick-fury-6023&theme=radical" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nick-fury-6023&theme=midnight_purple" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nick-fury-6023&theme=midnight_purple" alt="Most Used Languages"/>
 
 </div>
 
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<div align="center">
 
-## 🌟 Community & Open Source
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" alt="Community"/> &nbsp;Community & Open Source &nbsp;<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" alt="Community"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ### 📊 Contribution Stats
-<img src="https://github-contributor-stats.vercel.app/api?username=nick-fury-6023&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=nick-fury-6023&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Contribution Stats"/>
 
 ### 📈 Commit Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nick_fury_6023&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nick_fury_6023&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF" alt="WakaTime Stats"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" alt="Developer"/> &nbsp;Tech Stack & Arsenal &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" alt="Developer"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ### 💻 Programming Languages
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/>
   </a>
   <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/>
   </a>
   <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/>
   </a>
   <a href="https://golang.org/">
-    <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go"/>
+    <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"/>
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#"/>
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" title="TypeScript"/>
   </a>
   <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/>
   </a>
   <a href="https://www.ruby-lang.org/">
-    <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" title="Ruby"/>
+    <img src="https://skillicons.dev/icons?i=ruby&theme=dark" alt="Ruby" title="Ruby"/>
   </a>
   <a href="https://developer.apple.com/swift/">
-    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift"/>
+    <img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" title="Swift"/>
   </a>
 </p>
 
 ### 🌐 Backend Frameworks & Technologies
 <p>
   <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/>
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/>
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js"/>
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/>
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/>
   </a>
   <a href="https://flask.palletsprojects.com/">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/>
+    <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot"/>
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET"/>
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" title=".NET"/>
   </a>
   <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel"/>
   </a>
 </p>
 
 ### 🗄️ Databases & Storage
 <p>
   <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
   <a href="https://redis.io/">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/>
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/>
   </a>
   <a href="https://www.sqlite.org/">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/>
   </a>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services"/>
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="Amazon Web Services"/>
   </a>
   <a href="https://azure.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Microsoft Azure"/>
+    <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Microsoft Azure"/>
   </a>
   <a href="https://cloud.google.com/">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="Google Cloud Platform"/>
+    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" title="Google Cloud Platform"/>
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/>
   </a>
   <a href="https://kubernetes.io/">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes"/>
   </a>
   <a href="https://www.heroku.com/">
-    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" title="Heroku"/>
+    <img src="https://skillicons.dev/icons?i=heroku&theme=dark" alt="Heroku" title="Heroku"/>
   </a>
   <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/>
   </a>
   <a href="https://www.netlify.com/">
-    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify"/>
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" title="Netlify"/>
   </a>
 </p>
 
 ### 🛠️ Development Tools
 <p>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code"/>
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="Visual Studio Code"/>
   </a>
   <a href="https://www.jetbrains.com/idea/">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+    <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
   </a>
   <a href="https://www.vim.org/">
-    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim"/>
+    <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim" title="Vim"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/>
   </a>
   <a href="https://ubuntu.com/">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu"/>
   </a>
 </p>
 
 ### 🎨 Frontend (for Full-Stack Projects)
 <p>
   <a href="https://reactjs.org/">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/>
   </a>
   <a href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js"/>
+    <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" title="Vue.js"/>
   </a>
   <a href="https://angular.io/">
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular"/>
+    <img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" title="Angular"/>
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/>
   </a>
   <a href="https://nuxtjs.org/">
-    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" title="Nuxt.js"/>
+    <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" alt="Nuxt.js" title="Nuxt.js"/>
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap"/>
   </a>
   <a href="https://sass-lang.com/">
-    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/>
+    <img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" title="Sass"/>
   </a>
 </p>
 
 ### 🧪 Testing & Quality Assurance
 <p>
   <a href="https://jestjs.io/">
-    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest"/>
+    <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest" title="Jest"/>
   </a>
   <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/>
   </a>
 </p>
 
 ### 🔧 Additional Tools & Services
 <p>
   <a href="https://www.nginx.com/">
-    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx"/>
   </a>
   <a href="https://httpd.apache.org/">
-    <img src="https://skillicons.dev/icons?i=apache" alt="Apache" title="Apache"/>
+    <img src="https://skillicons.dev/icons?i=apache&theme=dark" alt="Apache" title="Apache"/>
   </a>
   <a href="https://grafana.com/">
-    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana"/>
+    <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana"/>
   </a>
   <a href="https://prometheus.io/">
-    <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus"/>
+    <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" title="Prometheus"/>
   </a>
   <a href="https://www.figma.com/">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" title="Figma"/>
   </a>
   <a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/>
   </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌐 Connect With Me Across The Digital Universe
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nick_fury_6023)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nick-fury-6023)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parthaobroy)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nick-fury-6023)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/761635564835045387)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nickfury6023)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick-fury-6023)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nickfury6023)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickfury6023)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nickfury6023)
+## <img src="https://media.giphy.com/media/jQrfRwJjeJdpFIbidN/giphy.gif" width="35px" alt="Connect"/> &nbsp;Connect Across The Digital Universe &nbsp;<img src="https://media.giphy.com/media/jQrfRwJjeJdpFIbidN/giphy.gif" width="35px" alt="Connect"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<a href="https://twitter.com/nick_fury_6023"><img src="https://img.shields.io/badge/Twitter-A855F7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/></a>
+<a href="https://dev.to/nick-fury-6023"><img src="https://img.shields.io/badge/Dev.to-A855F7?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" alt="Dev.to"/></a>
+<a href="https://instagram.com/parthaobroy"><img src="https://img.shields.io/badge/Instagram-E879F9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/></a>
+<a href="https://medium.com/@nick-fury-6023"><img src="https://img.shields.io/badge/Medium-A855F7?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium"/></a>
+<a href="https://discord.gg/761635564835045387"><img src="https://img.shields.io/badge/Discord-E879F9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/></a>
+
+<a href="https://linkedin.com/in/nickfury6023"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://github.com/nick-fury-6023"><img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://stackoverflow.com/users/nickfury6023"><img src="https://img.shields.io/badge/Stack_Overflow-A855F7?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"/></a>
+<a href="https://t.me/nickfury6023"><img src="https://img.shields.io/badge/Telegram-E879F9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram"/></a>
+<a href="https://youtube.com/@nickfury6023"><img src="https://img.shields.io/badge/YouTube-A855F7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/></a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="Discord"/> &nbsp;Discord & Music &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px" alt="Discord"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🎯 Live Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/761635564835045387?theme=dark&bg=0d1117&borderRadius=15&hideDiscrim=true&idleMessage=Probably%20coding...)](https://discord.com/users/761635564835045387)
+<a href="https://discord.com/users/761635564835045387">
+  <img src="https://lanyard.cnrad.dev/api/761635564835045387?theme=dark&bg=0d1117&borderRadius=20&hideDiscrim=true&idleMessage=Probably%20coding...&animated=true" alt="Discord Presence"/>
+</a>
+
+<br><br>
 
 ### 🎮 Discord Profile Card
-![Discord Profile](https://discord.c99.nl/widget/theme-4/761635564835045387.png)
+<img src="https://discord.c99.nl/widget/theme-4/761635564835045387.png" alt="Discord Profile"/>
+
+<br>
 
 ### 🎪 Discord Server Widget
-[![Discord Server](https://invidget.switchblade.xyz/U4kN6ZJyMt?theme=dark)](https://discord.gg/U4kN6ZJyMt)
+<a href="https://discord.gg/U4kN6ZJyMt">
+  <img src="https://invidget.switchblade.xyz/U4kN6ZJyMt?theme=dark" alt="Discord Server"/>
+</a>
 
-<div align="center">
-  
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
+<br><br>
+
+### 🎵 Last.fm - What I'm Vibing To
+<img src="https://lastfm-recently-played.vercel.app/api?user=nickfury6023&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3" alt="My scrobbles"/>
 
 </div>
 
+<br>
+
+<!-- ═══════════════════════════════ GLOW DIVIDER ═══════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=twinkling&fontAlignY=70&desc=⭐%20Star%20some%20repos%20if%20you%20like%20them!%20⭐&descAlignY=85&descAlign=50" />
+
+## <img src="https://media.giphy.com/media/3ohze3kG5qO9DcTUbe/giphy.gif" width="35px" alt="Quote"/> &nbsp;Dev Quote &nbsp;<img src="https://media.giphy.com/media/3ohze3kG5qO9DcTUbe/giphy.gif" width="35px" alt="Quote"/>
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 PREMIUM ANIMATED FOOTER 🔥 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=twinkling&fontAlignY=65&fontColor=A855F7&desc=⭐%20Star%20some%20repos%20if%20you%20like%20them!%20⭐&descAlignY=85&descAlign=50&stroke=A855F7&strokeWidth=1" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Keep+coding+and+stay+awesome!+⚡;🚀+See+you+in+the+next+commit!+🚀;💫+May+your+code+compile+on+the+first+try!+💫&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=2000&color=gradient" alt="Farewell Message"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=⚡+Keep+coding+and+stay+awesome!+⚡;🚀+See+you+in+the+next+commit!+🚀;💫+May+your+code+compile+on+the+first+try!+💫&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=2000&color=A855F7&vCenter=true" alt="Farewell Message"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px" alt="Signature"/>
+  <br>
+  <sub><b>Crafted with 💜 by NICK FURY</b></sub>
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- Profile powered by: Apple-style Glow UI with Smooth Animations -->
+<!-- Color Palette: #A855F7 (Purple) | #E879F9 (Pink) | #E9D5FF (Light Purple) -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
