@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔥 NICK FURY's PREMIUM APPLE-STYLE GLOW PROFILE 🔥 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-<!--
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=NICK%20FURY&fontSize=90&animation=twinkling&fontAlignY=35&fontColor=A855F7&desc=⚡%20Backend%20Developer%20from%20BHARAT%20⚡&descAlignY=55&descAlign=50&stroke=A855F7&strokeWidth=2" />
