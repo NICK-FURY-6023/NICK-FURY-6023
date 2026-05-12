@@ -426,7 +426,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70px" alt="Signature"/>
   <br>
-  <sub><b>Crafted with 💜 by NICK FURY</b></sub>
+  <sub><b>Crafted with by NICK FURY</b></sub>
 </div>
 
 <br>
